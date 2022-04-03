@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Arunima",
+      "lastName": "Gupta",
+      "email": "arunimagupta71@gmail.com",
+      "mobile": 9334220193,
+      "salary": 15000
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
